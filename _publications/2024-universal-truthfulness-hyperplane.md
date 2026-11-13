@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-universal-truthfulness-hyperplane
 excerpt: 'First-author work. Published at EMNLP 2024. Code repository: Universal_Truthfulness_Hyperplane.'
-date: 2024
+date: "2024"
 venue: 'EMNLP 2024'
 citation: 'Junteng Liu, Shiqi Chen, Yu Cheng, Junxian He. &quot;On the Universal Truthfulness Hyperplane Inside LLMs.&quot; EMNLP 2024.'
 ---
